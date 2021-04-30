@@ -1,0 +1,24 @@
+---
+course_id: 3-052-nanomechanics-of-materials-and-biomaterials-spring-2007
+layout: course_section
+menu:
+  leftnav:
+    identifier: 922432dfafabe294318ba73cbb705744
+    name: Assignments
+    weight: 40
+title: Assignments
+type: course
+uid: 922432dfafabe294318ba73cbb705744
+
+---
+
+\*\* **Important**: In the following table, the WSxM ZIP files for homeworks 2 and 5 contain .txt files (hw2\_wsxm\_nanoparticle.txt and hw5\_wsxm\_chondrocyte.txt) that are for use with free [Nanotec WSxM software](https://www.ncbi.nlm.nih.gov/pubmed/17503926). This file format starts with an ASCII variable size header followed by the binary data of the image. You may open the file with an ASCII editor like Notepad and see the header of the file, but  **do not try to save the file from the ASCII editor because it will destroy the binary data!**
+
+| ASSIGNMENTS | SUPPORTING FILES | SOLUTIONS | SUPPORTING FILES |
+| --- | --- | --- | --- |
+| Homework 1 ([PDF]({{< baseurl >}}/sections/assignments/hw1)) | Data for problem 1 ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4f8a0f338bd2a7008e6a0d5af527dbf1_hw1_q1_data.xls)) | ([PDF]({{< baseurl >}}/sections/assignments/hw1_sol)) | &nbsp; |
+| Homework 2 ([PDF]({{< baseurl >}}/sections/assignments/hw2)) |  {{< br >}}{{< br >}} Data for problem 2 ([TXT](/courses/materials-science-and-engineering/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/assignments/hw2_q2_data.txt)) {{< br >}}{{< br >}} \*\* WSxM image for problem 3 ([ZIP](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/4865ce0b25fada8cdace1125aaf64e0d_hw2_wsxm_nanoparticle.zip)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/sections/assignments/hw2_sol)) | Solution data for problem 2 ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/1b0d04678a23c35669cb3a3f0abc4cb5_hw2_sol_q2_data.xls)) |
+| Homework 3 ([PDF]({{< baseurl >}}/sections/assignments/hw3)) | &nbsp; | ([PDF]({{< baseurl >}}/sections/assignments/hw3_sol)) | Solution data for problem 2b ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/f2d0d753c13b3243f0f03f5b84b09334_hw3_sol_q2.xls)) |
+| Homework 4 ([PDF]({{< baseurl >}}/sections/assignments/hw4)) |  {{< br >}}{{< br >}} Bare mica data for problem 2d ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/95d9e757e8bb09dff18e295f3c4b4593_hw4_q2_data.xls)) {{< br >}}{{< br >}} Amino acid sequence of the protein core backbone, for problem 3d ([PDF]({{< baseurl >}}/sections/assignments/hw4_q3d_seq)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/sections/assignments/hw4_sol)) | Solution data for problem 1a ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/e39fe430012db106734559bb104be120_hw4_sol_q1a.xls)) |
+| Homework 5 ([PDF]({{< baseurl >}}/sections/assignments/hw5)) |  {{< br >}}{{< br >}} \*\* WSxM image for problem 1b ([ZIP](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/53222b54218fb5a84f6bc324799613ae_hw5_wsxm_chondrocyte.zip)) {{< br >}}{{< br >}} Data for problem 1d ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/cf579149b6c72b76061cefb5e15f2706_hw5_q1d.xls)) {{< br >}}{{< br >}} Data for problem 3b ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/29a50f174f625c062980c040f0e1ed4e_hw5_q3b.xls)) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/sections/assignments/hw5_sol)) |  {{< br >}}{{< br >}} Solution data for problem 1 ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/357588d265b4b367b908a9af40e850c3_hw5_sol_q1.xls)) {{< br >}}{{< br >}} Solution data for problem 2 ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/9d85e670f7543ae484d457516717b65a_hw5_sol_q2.xls)) {{< br >}}{{< br >}} Solution data for problem 3 ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/17af298e26d8acec2776e8d5c760b9c4_hw5_sol_q3.xls)) {{< br >}}{{< br >}}  |
+| Homework 6 ([PDF]({{< baseurl >}}/sections/assignments/hw6)) |  {{< br >}}{{< br >}} AFM image for problem 3b: hw6\_nacre\_afm.stp ([STP](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/89d6a74cab9802753b827b342e633fa6_hw6_nacre_afm.stp)) {{< br >}}{{< br >}} Data for problem 3c ([XLS](/coursemedia/3-052-nanomechanics-of-materials-and-biomaterials-spring-2007/0d18fcd29dbd1f207540ea7d23555788_hw6_q3c.xls)) (Courtesy of Benjamin Bruet. Used with permission.) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/sections/assignments/hw6_sol)) |
